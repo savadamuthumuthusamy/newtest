@@ -1,0 +1,4 @@
+Username	UserProfileFirstName	UserProfileLastName	UserProfileEmailAddress	UserProfileAddress1	UserProfileCity	UserProfileState	UserProfilePostalCode	UserProfileCountry	UserProfilePOBox	UserProfileReturnAddress	UserProfileReturnCity	UserProfileReturnState	UserProfileReturnZip	UserProfilePhoneNumber	Branch ID	ROD	OVP	%Group:1FFC Admin	%Group:Everyone except MS
+DAJ3085@1ffc.com	Doris	Pippin	daj3085@1ffc.com	903 N. Church Street 	Thomaston	GA	30286	US	PO Box 5014	903 N. Church Street 	Thomaston	GA	30286	706-647-8410	3675	Jimmy Mahaffey	Marc Thomas	No	Yes
+NEC2378@1ffc.com	Nichole	Cleckley	NEC2378@1ffc.com	11 Village Square 	Clanton	AL	35045	US	PO Box 1368	11 Village Square 	Clanton	AL	35045	205-755-8010	3677	Jerry Hughes	Mike Whitaker	No	Yes
+SGY1684@1ffc.com	Sally	York	SGY1684@1ffc.com	980 North Brindlee Mountain Pkwy	Arab	AL	35016-1065	US	PO Box 468	980 North Brindlee Mountain  Pkwy	Arab	AL	35016	256-586-9302	3678	Hilda Phillips	Mike Whitaker	No	Yes
